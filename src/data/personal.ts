@@ -12,6 +12,6 @@ export const personalInfo: PersonalInfo = {
   email: 'tahaanwar203@gmail.com',
   phone: '+201013810903',
   profileImage: '/main.png',
-  cvUrl: 'https://drive.google.com/file/d/1PQM_3c5hYDePXxfK059Q02Ff_Y83kLfN/view?usp=drive_link',
+  cvUrl: 'https://drive.google.com/file/d/1Ro9uOTbUpizvTG5BVXCz4JNFSwiNmqRk/view?usp=drive_link',
   statusBadge: 'SERVICE_READY',
 };
